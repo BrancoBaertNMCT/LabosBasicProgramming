@@ -3,4 +3,4 @@ n = input("What value has N? ")
 nn = n+n
 nnn = n+n+n
 result = (int(n)+int(nn)+int(nnn))
-print ("Total: {0}".format(result))
+print ("Total result: {0}".format(result))
